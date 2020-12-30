@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\Максим\Desktop\LAB_5+++\LAB_5+++\Source.cpp(97,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Максим\Desktop\LAB_5+++\LAB_5+++\Source.cpp(99,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Максим\Desktop\LAB_5+++\LAB_5+++\Source.cpp(154,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Максим\Desktop\LAB_5+++\LAB_5+++\Source.cpp(157,21): warning C4018: <: несоответствие типов со знаком и без знака
+  LAB_5+++.vcxproj -> C:\Users\Максим\Desktop\LAB_5+++\Debug\LAB_5+++.exe
